@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/aki/Documents/CLionProjects/ENSC251/LAB/4/lab4.cpp
+iostream
+-
+string
+-
+lab4.h
+/Users/aki/Documents/CLionProjects/ENSC251/LAB/4/lab4.h
+
+/Users/aki/Documents/CLionProjects/ENSC251/LAB/4/lab4.h
+iostream
+-
+
+/Users/aki/Documents/CLionProjects/ENSC251/LAB/4/lab4demo.cpp
+iostream
+-
+string
+-
+lab4.h
+/Users/aki/Documents/CLionProjects/ENSC251/LAB/4/lab4.h
+
