@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/aki/Documents/CLionProjects/ENSC251/LAB/5/WordLadder.cpp
+iostream
+-
+fstream
+-
+string
+-
+WordLadder.h
+/Users/aki/Documents/CLionProjects/ENSC251/LAB/5/WordLadder.h
+
+/Users/aki/Documents/CLionProjects/ENSC251/LAB/5/WordLadder.h
+string
+-
+
+/Users/aki/Documents/CLionProjects/ENSC251/LAB/5/lab5demo.cpp
+iostream
+-
+WordLadder.h
+/Users/aki/Documents/CLionProjects/ENSC251/LAB/5/WordLadder.h
+
