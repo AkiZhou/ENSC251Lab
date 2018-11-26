@@ -1,0 +1,3 @@
+/Users/aki/Documents/CLionProjects/ENSC251/LAB/8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/aki/Documents/CLionProjects/ENSC251/LAB/8/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aki/Documents/CLionProjects/ENSC251/LAB/8/cmake-build-debug/CMakeFiles/8.dir

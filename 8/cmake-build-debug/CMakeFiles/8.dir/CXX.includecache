@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/aki/Documents/CLionProjects/ENSC251/LAB/8/lab8demo.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+string
+-
+vector
+-
+iterator
+-
+algorithm
+-
+
