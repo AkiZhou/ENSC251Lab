@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/aki/Documents/CLionProjects/ENSC251/LAB/6/TimeFormatMistake.cpp
+TimeFormatMistake.h
+/Users/aki/Documents/CLionProjects/ENSC251/LAB/6/TimeFormatMistake.h
+iostream
+-
+string
+-
+sstream
+-
+
+/Users/aki/Documents/CLionProjects/ENSC251/LAB/6/TimeFormatMistake.h
+iostream
+-
+string
+-
+
+/Users/aki/Documents/CLionProjects/ENSC251/LAB/6/lab6demo.cpp
+iostream
+-
+string
+-
+TimeFormatMistake.h
+/Users/aki/Documents/CLionProjects/ENSC251/LAB/6/TimeFormatMistake.h
+
